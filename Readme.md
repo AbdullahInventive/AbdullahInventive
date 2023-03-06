@@ -60,7 +60,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=abdullahinvetive&show_icons=true&theme=swift" alt="codeninjausman" />
-<p> <img src="https://streak-stats.demolab.com?user=abdullahinvetive" alt="codeninjausman" />
-  <p> <img src="https://github-profile-trophy.vercel.app/?username=abdullahinvetive" alt="codeninjausman" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=abdullahinventive&show_icons=true&theme=swift" alt="codeninjausman" />
+<p> <img src="https://streak-stats.demolab.com?user=abdullahinventive" alt="codeninjausman" />
+  <p> <img src="https://github-profile-trophy.vercel.app/?username=abdullahinventive" alt="codeninjausman" />
 
